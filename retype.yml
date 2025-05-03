@@ -6,7 +6,11 @@ branding:
   label: Docs
   logo: static/logo.png
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Startseite
+  link: https://docs.julis.de/
+- text: Datenschutz
+  link: https://julis.de/datenschutz/
+- text: Impressum
+  link: https://julis.de/impressum/
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright {{ year }}. Alle Rechte vorbehalten."
