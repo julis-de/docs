@@ -7,6 +7,10 @@ Gruppen können analog zu Beziehung für die Pflege von Informationen, insbesond
 
 Zur Anlage einer Gruppenzugehörigkeit den grünen Button ‚**Neuer Datensatz**‘ im Portlet Gruppenzugehörigkeit im Cockpit Mitglieder Detailansicht klicken:
 
+![](/static/graphicsmvs/1-4-6-gruppe1.jpeg)
+
 Aus einer Liste vorher definierten Gruppenstämme kann dann die entsprechende Gruppe ausgewählt werden. Analog zur Beziehung sind ein Start- und Enddatum für die Gruppe zu setzen.
+
+![](/static/graphicsmvs/1-4-6-gruppe2.jpeg)
 
 Unter dem Reiter Mitglieder > Definitionen > Gruppenstamm können neue Gruppen angelegt werden. Bei der Bezeichnung des Gruppennamens ist stets als Präfix das Kürzel des Landesverbandes (siehe CRM- Cockpit Kontakte & Interessenten) gefolgt von einem Leerzeichen und einem Gedankenstrich zu verwenden (Bsp.: „BY – LAK Außen- und Sicherheit).

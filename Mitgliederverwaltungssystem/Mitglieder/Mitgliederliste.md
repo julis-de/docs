@@ -7,4 +7,8 @@ order: 1000
 
 Weitere Informationen und Schaltflächen zu einzelnen Datensätzen werden durch Auswahl des betroffenen Datensatzes, im eBrowse des Cockpits, mit dem Akkordeon sichtbar.
 
+![](/static/graphicsmvs/1-4-1-mitgliederliste.jpeg)
+
 Über den Schnellfilter kann die Mitgliederliste mit einem Klick angepasst werden:
+
+![](/static/graphicsmvs/1-4-1-schnellfilter.jpeg)

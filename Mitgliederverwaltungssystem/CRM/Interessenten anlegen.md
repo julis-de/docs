@@ -3,7 +3,10 @@ order: 900
 ---
 # 🙋‍♂️ Interessenten anlegen
 
-Interessenten können nicht händisch gepflegt werden, sondern nur über die Zwischentabelle der Internetanträge übernommen werden. Internetanträge können über [diesen Link](https://mitglieder.julis.de/app_mitgliedwerden) eingereicht werden:
+Interessentenanträge laufen in der Zwischentabelle des Cockpits Internetanträge ein. Es werden alle Internetanträge (Mitglieder und Interessenten), die über die Website der Jungen Liberalen:
 
-[Jetzt Mitglied werden!](https://mitglieder.julis.de/app_mitgliedwerden)
+[Jetzt Interessent werden!](https://home.julis.de/mitglied-werden/)
+
+und vorrübergehend über das WebApp-Formular [https://mitglieder.julis.de/app_mitgliedwerden](https://mitglieder.julis.de/app_mitgliedwerden) (_Achtung nur intern!_) eingehen, automatisch anhand der Postleitzahl direkt dem richtigen Kreis- bzw. Bezirks- und Landesverband zugeordnet.
+
 

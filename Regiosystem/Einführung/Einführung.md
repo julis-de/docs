@@ -3,7 +3,11 @@ order: 1000
 ---
 # Einführung
 
-Ab sofort steht das Website-Regiosystem zur Verfügung: Die neue Website für alle Kreis-, Bezirks- und Landesverbände der Jungen Liberalen. Alle wichtigen Informationen dazu findest Du hier!
+Ab sofort steht das Website-Regiosystem zur Verfügung: Die neue Website für alle Kreis-, Bezirks- und Landesverbände der Jungen Liberalen. Alle wichtigen Informationen dazu findest Du auf dieser Seite!
+
+Das Regiosystem kannst Du [hier](https://julis.de/produkt/regiosystem-hosted/) erwerben.
+
+Alle Infos zu unserem Corporate Design findest Du [hier](https://julis.de/neues-corporate-design/).
 
 **+++ ACHTUNG: Die alten Seiten des auslaufenden Regiosystems bleiben nur noch bis zum 13.09.2024 online. Danach werden sie gelöscht. Migrationen sollten bis dahin abgeschlossen werden, weitere Verschiebungen sind nicht mehr möglich. +++**
 
@@ -15,7 +19,8 @@ Bitte beachtet, dass keine Dokumentation vollumfassend ist und wir auf euer Feed
 
 Ergänzungen, Kritik und Tipps könnt ihr deshalb einfach an die folgende e-Mail richten:
 
-schwarz@julis.de, reiter@julis.de, thies@julis.de
+- schwarz@julis.de (Piet Schwarz)
+- thies@julis.de (Paul Thies)
 
 Wir freuen uns auf euer Feedback und wünschen euch viel Erfolg beim Einrichten eurer Seite!
 
@@ -32,7 +37,7 @@ Wir freuen uns auf euer Feedback und wünschen euch viel Erfolg beim Einrichten 
 
 ## FAQ
 
-==- Welche Optionen gibt es zur Nutzung der Webseite?
+=== Welche Optionen gibt es zur Nutzung der Webseite?
 
 Du kannst die Website entweder im Abomodell erwerben oder einmalig kaufen. Im Abo kümmern wir uns um das Hosting, beim Kauf sind Du und Dein Verband nach Erwerb selbst verantwortlich. Das sind die Preise:
 
@@ -41,12 +46,14 @@ Preis im Abo: 39 €/Jahr
 Preis als Kauf: 189 € einmalig
 
 ===
-==- Kommen weitere Kosten hinzu?
+
+=== Kommen weitere Kosten hinzu?
 
 Für die Nutzung der Website sind bestimmte WordPress-Add-Ons nötig. Diese sind jedoch im Preis schon integriert. Der einzige zusätzliche Kostenfaktor ist die Domain, die Dein Verband für seine Website nutzt. Bezieht ihr diese vom Bundesverband, werden jährliche Kosten fällig.
 
 ===
-==- Was gibt es über die Domain zu wissen?
+
+=== Was gibt es über die Domain zu wissen?
 
 Folgende Preise rufen wir auf, um Dir eine Domain Deines Verbands zur Verfügung zustellen (Beispiel: www.julis-musterstadt.de):
 
@@ -59,7 +66,8 @@ Die Angabe über die Domain machst Du beim Erwerb des Regiosystems, wenn nötig 
 Bitte prüfe auch die Entscheidungshilfe zum Domain-Hosting.
 
 ===
-==- Was passiert mit meiner alten Webseite?
+
+=== Was passiert mit meiner alten Webseite?
 
 Nachdem Dein Verband sein neues Website-Theme aktiviert hat, lassen wir Deine alte Seite noch 14 Tage lang online. Noch in diesen zwei Wochen hast Du Zeit, alle gewünschten Inhalte zu übertragen (wie das geht, erfährst Du in der Dokumentation). Also aktiviere die neue Seite erst, wenn auch genug Zeit zur Einrichtung ist!
 

@@ -6,3 +6,4 @@ Einen **eVEWA Zugang erhält** ausschließlich, **wer** auch eine **Verpflichtun
 
 Die Verpflichtungserklärung findet Ihr [hier](https://julis.de/wp-content/uploads/2025/01/Datenschutz-Verpflichtung-Vorlage.pdf).
 
+![](/static/graphicsmvs/1-1-3-vorschau-datenschutz.jpeg)
