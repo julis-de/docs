@@ -139,3 +139,34 @@ Hier könnt ihr jetzt einfach den fehlerhaften Link ersetzen durch https://julis
 ![](/static/graphicsregio/2-menu2.jpeg)
 
 ===
+
+=== Abschnitte sind nicht mehr farbig und lassen sich nicht farbig machen.
+
+Dies lässt sich in der Regel mit einer erneuten Generierung der CSS-Daten lösen.
+
+![](/static/graphicsregio/css-new.png)
+
+Andernfalls meldet euch beim IT-Support.
+
+===
+
+=== Bei der Personenvorschau wird das im Vorschaubild ungewöhnlich stark gezoomed.
+
+Dieses Problem tritt meistens beim Design 2 auf, und betrifft entweder einen _Shortcode_ oder die Einzelpersonenansicht.
+
+**Shortcode:**
+1. Loggt euch bei WordPress ein.
+2. Navigiert zu _Templates_ und wählt dort das Template _Shortcode Person Design 2_ aus, um diese _mit Elementor zu bearbeiten_.
+3. Hier könnt ihr entsprechende Anpassungen am Beitragsbild machen, siehe Bild. Hier muss man ausprobieren, was am besten passt. Meistens ist die vorgegebene Einstellung sogar richtig und die Methode - ändern, aktualisieren, zurückändern, erneut aktualisieren - löst in der Regel schon das Problem.
+
+
+**Einzelpersonenansicht**
+
+1. Loggt euch bei WordPress ein.
+2. Navigiert zu einer Seite, wo das Problem auftritt.
+3. Auf der Seite klickt auf: _mit Elementor bearbeiten_ -> _Single Post_ (Das ist die Template vorlage für die automatisch generierten personenseiten).
+4. Hier könnt ihr entsprechende Anpassungen am Beitragsbild machen, siehe Bild. Hier muss man ausprobieren, was am besten passt. Meistens ist die vorgegebene Einstellung sogar richtig und die Methode - ändern, aktualisieren, zurückändern, erneut aktualisieren - löst in der Regel schon das Problem.
+
+![](/static/graphicsregio/design-personen.png)
+
+===
