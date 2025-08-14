@@ -12,3 +12,5 @@ Weitere Informationen und Schaltflächen zu einzelnen Datensätzen werden durch 
 Über den Schnellfilter kann die Mitgliederliste mit einem Klick angepasst werden:
 
 ![](/static/graphicsmvs/1-4-1-schnellfilter.jpeg)
+
+Über den großen Button _Excel_ lässt sich ein Export aller in der Tabelle angezeigten Daten ziehen. Über den Reiter _Export_ lassen sich weitere Exportmöglichkeiten auswählen. **Relevant ist vor allem der Newsletter Export**. In diesem werden automatisch nur das Geschlecht, e-Mail, Vor- und Nachname exportiert. Außerdem wird bei diesem Export **nur die gewünschte Kontakt-e-Mail exportiert**. Das ist dann wichtig, wenn Mitglieder ihre JuLi-ID als primäre e-Mail für JuLi-relevante Kommunikation nutzen, denn dann kann im Mitgliederverwaltungssystem hinterlegt werden, dass die e-Mails direkt an die JuLi-ID versandt werden sollen. **Beim Newsletter-Export wird dies automatisiert korrekt ausgewählt.**
