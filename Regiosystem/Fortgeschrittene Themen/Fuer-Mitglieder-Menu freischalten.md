@@ -4,7 +4,7 @@ Auf der [Bundesseite](julis.de) seht ihr im zentralen Menü ebenfalls den Menüp
 
 ![Nachträglich eingefügtes "Für Mitglieder Menü"](/static/graphicsregio/2-fuermitgliederbsp.png)
 
-_[Zur Videoanleitung](https://www.loom.com/share/5aa51ddea9b942a4abb1fb894a4c39b2)_
+_[Zur Videoanleitung](https://mediathek.julis.de/videos/das-fuer-mitglieder-menue/)_
 
 1. Loggt euch bei WordPress ein. 
 2. Klickt im Menü unter Design auf den Punkt Menüs.

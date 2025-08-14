@@ -5,7 +5,7 @@ order: 900
 
 Mitglieds- und Interessentenanträge laufen in der Zwischentabelle des Cockpits Internetanträge ein. Es werden alle Internetanträge (Mitglieder und Interessenten), die über die Website der Jungen Liberalen:
 
-[Homepage der Jungen Liberalen, Mitglied werden](https://home.julis.de/mitglied-werden/)
+[Homepage der Jungen Liberalen, Mitglied werden](https://julis.de/mitglied-werden/)
 
 und vorrübergehend über das WebApp-Formular [https://mitglieder.julis.de/app_mitgliedwerden](https://mitglieder.julis.de/app_mitgliedwerden) (_Achtung nur intern!_) eingehen, automatisch anhand der Postleitzahl direkt dem richtigen Kreis- bzw. Bezirks- und Landesverband zugeordnet. Wenn Kreis- oder Bezirksverbände keine eindeutige Zuordnung per PLZ erlauben, wird ein Mitglied vereinzelt nur der Landesebene zugeordnet und im Anschluss vom Landesvorstand oder der Landesgeschäftsstelle händisch einem BV/KV zugeordnet.
 
