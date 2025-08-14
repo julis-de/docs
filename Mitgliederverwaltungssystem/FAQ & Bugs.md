@@ -87,3 +87,9 @@ Dabei handelt es sich um einen uns bekannten Fehler, der sich mit einem der näc
 Die e-Mail-Vorlagen sind derzeit für alle Benutzer des MVS sichtbar. Dabei handelt es sich um einen bekannten Fehler, der mit einem der kommenden Standupdates von GRÜN gelöst wird.
 
 ===
+
+## Changelog
+
+Im Folgenden findet ihr eine prägnante Übersicht über relevante Änderungen in der näheren Vergangenheit:
+- 08/08/2025: Fehlerhafte PLZ-Zuteilung bei den Interessenten wurde behoben.
+- 08/08/2025: Newsletter-Export exportiert jetzt die richtige e-Mail auf Basis des Auswahlfeldes _Juli-ID als E-Mail verwenden_. Siehe mehr dazu [(hier)](/mitgliederverwaltungssystem/mitglieder/mitgliederliste/).
